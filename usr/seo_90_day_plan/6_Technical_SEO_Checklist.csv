@@ -1,0 +1,11 @@
+Task,Frequency,Status,Notes
+Website Speed Optimization (LCP < 2.5s),Weekly,Pending,Check Core Web Vitals report in GSC
+Mobile Optimization (Responsive check),Monthly,Pending,Use Google Mobile-Friendly test
+Broken Links Fix (404 errors),Weekly,Pending,Run Ahrefs/Screaming Frog crawl
+Sitemap & Robots.txt Check,Monthly,Pending,Ensure no critical pages are blocked
+Schema Markup (Organization & Articles),One-time,Pending,Validate with Rich Results Test
+Core Web Vitals (CLS < 0.1, FID < 100ms),Weekly,Pending,Monitor via PageSpeed Insights
+SSL / HTTPS Certificate Validity,Monthly,Pending,Check expiry dates
+Canonical Tags Implementation,One-time,Pending,Ensure no duplicate content issues
+Hreflang Tags (if multi-regional),One-time,Pending,Review international targeting
+URL Structure Optimization,One-time,Pending,Keep URLs clean and keyword-rich

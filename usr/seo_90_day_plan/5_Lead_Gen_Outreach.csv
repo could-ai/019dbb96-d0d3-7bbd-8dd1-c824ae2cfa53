@@ -1,0 +1,7 @@
+Date,Company Name,Industry,Contact Person,Email Sent (Yes/No),Response Received,Follow-up Date,Lead Status
+2026-04-25,TechFlow SaaS,Software,Jane Doe (CMO),Yes,No,2026-04-28,Cold
+2026-04-26,FinServe Global,Fintech,John Smith (VP Mktg),Yes,Yes,2026-04-29,Warm
+2026-04-27,Logistics Pro,Supply Chain,Sarah Lee (Director),Yes,No,2026-04-30,Cold
+2026-04-28,HealthTech Innovations,Healthcare,Michael Chang (CEO),Yes,Meeting Scheduled,2026-05-02,Hot
+2026-04-29,EduCloud Systems,EdTech,Amanda White (CMO),Yes,No,2026-05-03,Cold
+2026-04-30,CloudSec Partners,Cybersecurity,David Brown (VP Sales),No,N/A,2026-05-02,Pending

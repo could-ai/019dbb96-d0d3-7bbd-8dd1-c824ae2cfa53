@@ -1,0 +1,91 @@
+Date,Task Name,Task Category,Responsible Person,Priority Level,Status,Remarks
+Day 1,Kickoff meeting and goal alignment,Content,Marketing Manager,High,Pending,Define 90-day objectives
+Day 2,Comprehensive SEO Audit (Site health & Core Web Vitals),Technical SEO,SEO Specialist,High,Pending,Use Ahrefs/Semrush
+Day 3,Keyword research for primary B2B offerings,Content,SEO Specialist,High,Pending,Focus on transactional intent
+Day 4,Competitor backlink and content gap analysis,Off-page,SEO Specialist,Medium,Pending,Identify quick win topics
+Day 5,Set up Google Analytics 4 & Google Search Console,Technical SEO,Web Developer,High,Pending,Ensure conversion tracking is active
+Day 6,Optimize meta titles and descriptions for top 10 pages,On-page,SEO Specialist,High,Pending,
+Day 7,Review and update internal linking structure,On-page,SEO Specialist,Medium,Pending,
+Day 8,Fix broken links (404s) and redirect chains,Technical SEO,Web Developer,Medium,Pending,
+Day 9,Publish Guide: Top B2B Software Solutions in 2024,Content,Content Writer,High,Pending,Week 1 blog content
+Day 10,Create outreach templates for link building,Email,Marketing Manager,Medium,Pending,
+Day 11,Identify top 50 B2B prospects for email outreach,Off-page,Lead Gen Rep,High,Pending,
+Day 12,Send first batch of cold outreach emails,Email,Lead Gen Rep,High,Pending,
+Day 13,Optimize Google Business Profile and local citations,Off-page,SEO Specialist,Low,Pending,
+Day 14,Weekly performance review & adjustment,Technical SEO,Marketing Manager,Medium,Pending,
+Day 15,Conduct content audit on existing blog posts,Content,Content Writer,Medium,Pending,Identify posts to rewrite
+Day 16,Implement Schema Markup (Organization & Articles),Technical SEO,Web Developer,High,Pending,
+Day 17,Publish Case Study: How We Scaled B2B Lead Gen,Content,Content Writer,High,Pending,Week 2 blog content
+Day 18,Share case study on LinkedIn and Twitter,Social Media,Social Media Manager,Medium,Pending,
+Day 19,Follow up on batch 1 outreach emails,Email,Lead Gen Rep,High,Pending,
+Day 20,Pitch guest posts to 10 industry blogs,Off-page,SEO Specialist,Medium,Pending,
+Day 21,Analyze competitor social media strategies,Social Media,Social Media Manager,Low,Pending,
+Day 22,Update old blog posts with new keywords,On-page,Content Writer,Medium,Pending,
+Day 23,Publish Blog: Common B2B Marketing Mistakes,Content,Content Writer,Medium,Pending,Week 3 blog content
+Day 24,Review and compress images for faster loading,Technical SEO,Web Developer,Medium,Pending,
+Day 25,Send batch 2 of cold outreach emails,Email,Lead Gen Rep,High,Pending,
+Day 26,Engage with industry leaders on LinkedIn,Social Media,Social Media Manager,Low,Pending,
+Day 27,Review keyword tracking dashboard and rankings,On-page,SEO Specialist,High,Pending,
+Day 28,Month 1 Performance Report generation,Technical SEO,Marketing Manager,High,Pending,Evaluate Month 1 KPIs
+Day 29,Strategy session for Month 2 execution,Content,Marketing Manager,High,Pending,
+Day 30,Publish Industry Insight: B2B Trends to Watch,Content,Content Writer,Medium,Pending,Week 4 blog content
+Day 31,Identify 50 new lead targets in SaaS niche,Off-page,Lead Gen Rep,High,Pending,
+Day 32,Send batch 3 outreach emails,Email,Lead Gen Rep,High,Pending,
+Day 33,Create infographic for link-building campaign,Content,Graphic Designer,Medium,Pending,
+Day 34,Distribute infographic to industry resource pages,Off-page,SEO Specialist,High,Pending,
+Day 35,Run a technical crawl to check for new errors,Technical SEO,SEO Specialist,Medium,Pending,
+Day 36,Publish Guide: How to Choose a SaaS Provider,Content,Content Writer,High,Pending,Week 5 blog content
+Day 37,A/B test landing page Call-to-Actions (CTAs),On-page,Web Developer,Medium,Pending,
+Day 38,Follow up on guest post pitches,Off-page,SEO Specialist,Medium,Pending,
+Day 39,Host a webinar or live Q&A on LinkedIn,Social Media,Social Media Manager,Medium,Pending,
+Day 40,Follow up on batch 3 outreach emails,Email,Lead Gen Rep,High,Pending,
+Day 41,Check Mobile Usability issues in GSC,Technical SEO,SEO Specialist,High,Pending,
+Day 42,Write draft for comprehensive whitepaper,Content,Content Writer,Medium,Pending,
+Day 43,Publish Blog: Data Privacy in B2B SaaS,Content,Content Writer,Medium,Pending,Week 6 blog content
+Day 44,Send batch 4 outreach emails to enterprise targets,Email,Lead Gen Rep,High,Pending,
+Day 45,Review backlink profile for toxic links and disavow,Off-page,SEO Specialist,Low,Pending,
+Day 46,Design and finalize whitepaper PDF,Content,Graphic Designer,Medium,Pending,
+Day 47,Launch gated whitepaper landing page for leads,On-page,Web Developer,High,Pending,
+Day 48,Promote whitepaper via LinkedIn Ads,Social Media,Marketing Manager,High,Pending,
+Day 49,Follow up on batch 4 outreach emails,Email,Lead Gen Rep,High,Pending,
+Day 50,Review local/niche directory listings,Off-page,SEO Specialist,Low,Pending,
+Day 51,Publish Case Study: Enterprise Cloud Migration,Content,Content Writer,High,Pending,Week 7 blog content
+Day 52,Optimize URL structures for any updated pages,On-page,Web Developer,Medium,Pending,
+Day 53,Draft 5 new email sequence templates for warm leads,Email,Marketing Manager,Medium,Pending,
+Day 54,Set up automated email drip campaign,Email,Marketing Manager,High,Pending,
+Day 55,Run an A/B test on email subject lines,Email,Marketing Manager,Medium,Pending,
+Day 56,Publish Guide: Mastering Remote B2B Sales,Content,Content Writer,Medium,Pending,Week 8 blog content
+Day 57,Analyze traffic flow and bounce rates in GA4,Technical SEO,SEO Specialist,High,Pending,
+Day 58,Month 2 Performance Report and KPI check,Technical SEO,Marketing Manager,High,Pending,
+Day 59,Plan Month 3 content calendar adjustments,Content,Marketing Manager,High,Pending,
+Day 60,Send batch 5 outreach emails (warm up cold leads),Email,Lead Gen Rep,High,Pending,
+Day 61,Target snippet optimization (FAQ schema),On-page,SEO Specialist,High,Pending,Targeting position zero
+Day 62,Add FAQs to top 5 service pages,On-page,Content Writer,Medium,Pending,
+Day 63,Follow up on batch 5 outreach emails,Email,Lead Gen Rep,High,Pending,
+Day 64,Publish Blog: Future of AI in B2B Services,Content,Content Writer,High,Pending,Week 9 blog content
+Day 65,Check site speed (LCP, FID, CLS) improvements,Technical SEO,Web Developer,High,Pending,
+Day 66,Build 5 high-quality forum/community backlinks,Off-page,SEO Specialist,Low,Pending,
+Day 67,Repurpose webinar into 3 short YouTube videos,Content,Social Media Manager,Medium,Pending,
+Day 68,Post YouTube videos and embed in relevant blogs,On-page,Web Developer,Medium,Pending,
+Day 69,Identify and merge duplicate or thin content,On-page,SEO Specialist,Medium,Pending,
+Day 70,Send batch 6 outreach emails (Final push),Email,Lead Gen Rep,High,Pending,
+Day 71,Publish Case Study: AI Implementation ROI,Content,Content Writer,Medium,Pending,Week 10 blog content
+Day 72,Check keyword cannibalization and fix,On-page,SEO Specialist,Medium,Pending,
+Day 73,Audit and clean up tags/categories in CMS,Technical SEO,SEO Specialist,Low,Pending,
+Day 74,Follow up on batch 6 outreach emails,Email,Lead Gen Rep,High,Pending,
+Day 75,Share top-performing blogs in weekly newsletter,Email,Marketing Manager,Medium,Pending,
+Day 76,Evaluate conversion paths for drop-offs,On-page,Marketing Manager,High,Pending,
+Day 77,Publish Industry Insight: Q3 Market Analysis,Content,Content Writer,Medium,Pending,Week 11 blog content
+Day 78,Update Google Business Profile with new posts,Off-page,Social Media Manager,Low,Pending,
+Day 79,Run competitor keyword overlap analysis again,Off-page,SEO Specialist,Medium,Pending,
+Day 80,Send targeted follow-ups to non-responders,Email,Lead Gen Rep,Medium,Pending,
+Day 81,Publish Guide: Setting B2B Budgets for Next Year,Content,Content Writer,High,Pending,Week 12 blog content
+Day 82,Review domain authority and backlink growth,Off-page,SEO Specialist,High,Pending,
+Day 83,Final technical crawl of the 90-day period,Technical SEO,Web Developer,High,Pending,
+Day 84,Analyze whitepaper lead quality and pipeline,Email,Sales/Lead Gen Rep,High,Pending,
+Day 85,Optimize internal links pointing to whitepaper,On-page,SEO Specialist,Medium,Pending,
+Day 86,Draft Q4 / Next 90-day SEO strategy,Content,Marketing Manager,High,Pending,
+Day 87,Publish Blog: The Ultimate B2B Checklist,Content,Content Writer,High,Pending,Week 13 blog content
+Day 88,Compile all SEO and Lead Gen data,Technical SEO,Marketing Manager,High,Pending,
+Day 89,Month 3 / 90-Day Final Performance Review,Technical SEO,Marketing Manager,High,Pending,
+Day 90,Final Presentation to Stakeholders,Content,Marketing Manager,High,Pending,Celebrate wins and plan next steps
